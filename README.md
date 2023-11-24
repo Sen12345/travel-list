@@ -10,7 +10,7 @@ This project includes the following development tasks:
 - Sorting items
 - Deleting items
 - Calculation based on derived states
-- Passing data sa props
+- Passing data as props
 - Destructuring data instead of passing data as props
 - Clearing a list
 - Array and object mapping
