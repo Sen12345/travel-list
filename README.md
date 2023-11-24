@@ -23,3 +23,4 @@ This project includes the following development tasks:
 In the project directory, you can run:
 
 ### `npm start to load this application on port 3000 via local host`
+### `Make sure you have the latest version of node installed on your system`
