@@ -1,4 +1,4 @@
-# React Packing List For Travel
+# React Paking List App For Travel 
 
 This project includes the following development tasks:
 
