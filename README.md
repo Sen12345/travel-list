@@ -1,4 +1,4 @@
-# React UKation Paking List App 
+# React Ukation Paking List App 
 
 This project includes the following development tasks:
 
